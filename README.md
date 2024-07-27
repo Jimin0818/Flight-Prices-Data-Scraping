@@ -1,5 +1,5 @@
 # Flight-Prices-Data-Scraping
-Uses data scraping to gather information on the cheapest flight tickets
+Uses data scraping to gather information on the cheapest flight tickets, project collaboration with Ji Min Yoon and Arsal Hussain
 
 
 Packages installed:
